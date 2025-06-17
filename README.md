@@ -9,11 +9,17 @@ This project is a Streamlit-based web interface for interacting with the Pepper 
 
 # App Installation
 1. Clone the Repository:
+```sh
 git clone https://github.com/NipuniHW/SP_Measurement_Scale_Study.git
 cd SP_Measurement_Scale_Study
+```
 
 2. Install Dependencies:
+```sh
 pip install -r requirements.txt
+```
 
 3. Run the Application
+```sh
 streamlit run script.py
+```
